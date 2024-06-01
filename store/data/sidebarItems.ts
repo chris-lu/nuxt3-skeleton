@@ -110,4 +110,9 @@ export default [
         },
       ]
     },
+    {
+      "name": "Logout",
+      "url": "/logout",
+      "icon": "box-arrow-right"
+    }
 ];
